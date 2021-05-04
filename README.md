@@ -1,0 +1,2 @@
+# CrashyourPC
+Windows only
